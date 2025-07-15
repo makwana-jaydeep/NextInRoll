@@ -36,6 +36,7 @@ This is a content-based movie recommendation system built using scikit-learn and
 
 ## Project Structure
 
+```
 MovieRecommender/
 ├── app.py                     # Streamlit UI application
 ├── utils/                     # Core logic and utility functions
@@ -54,7 +55,7 @@ MovieRecommender/
 ├── requirements.txt           # List of required Python libraries
 ├── LICENSE                    # MIT License for reuse and distribution
 └── README.md                  # Project documentation and usage guide
-
+```
 
 
 ## Setup Instructions
@@ -95,12 +96,12 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Acknowledgements
 
--TMDB for the original movie dataset.
+- TMDB for the original movie dataset.
 
--OMDB API for poster and metadata retrieval.
+- OMDB API for poster and metadata retrieval.
 
--NLTK for natural language processing.
+- NLTK for natural language processing.
 
--scikit-learn for modeling and similarity computation.
+- scikit-learn for modeling and similarity computation.
 
 
