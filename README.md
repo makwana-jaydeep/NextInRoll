@@ -64,7 +64,7 @@ MovieRecommender/
 
 ```bash
 git clone https://github.com/makwana-jaydeep/NextInRoll.git
-cd MovieRecommender
+cd NextInRoll 
 ```
 
 
